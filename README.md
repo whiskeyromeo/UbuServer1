@@ -3,7 +3,9 @@
 ### Access: 
 
 **IP:** 52.46.46.127
+
 **SSH:** Port 2200
+
 **Site URL:** http://ec2-52-36-46-127.us-west-2.compute.amazonaws.com/
 
 ### Summary: 
@@ -56,7 +58,7 @@ I understood all of the elements involved with ssh login). This key
 was saved to the root .ssh directory as grader_rsa with public as 
 grader_rsa.pub. The public key was then copied to the 
 .ssh/authorized_keys file of user grader. Passphrase was set as 
-grader.
+*grader*.
 ```
 ssh-keygen
 ```
