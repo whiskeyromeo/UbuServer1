@@ -7,7 +7,7 @@ NOTE :
 - Requires allocation of an EC2 instance of Ubuntu Server. Instructions not included
 - Ensure that the IAM security role allocated to the instance has the appropriate permissions to permit ssh, http, and https.
 
-### Summary: 
+### Basic initial Setup: 
 
 1. Login via ssh as root through port 2200.
 2. Updated system
